@@ -7,7 +7,7 @@
 # Dependencies
 import tweepy
 import time
-from config import consumer_key, consumer_secret, access_token, access_token_secret
+from twitter_config import consumer_key, consumer_secret, access_token, access_token_secret
 
 
 # In[ ]:
